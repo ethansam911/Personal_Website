@@ -4224,7 +4224,8 @@
                                 i.removeBackdrop(), e && e()
                             };
                             t.support.transition && this.$element.hasClass("fade") ? this.$backdrop.one("bsTransitionEnd", s).emulateTransitionEnd(n.BACKDROP_TRANSITION_DURATION) : s()
-                        } else e && e()
+                        } 
+                        else e && e()
                     }, n.prototype.handleUpdate = function () {
                         this.adjustDialog()
                     }, n.prototype.adjustDialog = function () {

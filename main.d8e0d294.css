@@ -3673,8 +3673,8 @@ button.close{
 }
 .carousel-indicators .active{
     margin:0;
-    width:12px;
-    height:12px;
+    width:300px;
+    height:300px;
     background-color:#fff
 }
 .carousel-caption{
@@ -4169,12 +4169,12 @@ body.white{
 }
 .carousel-indicators li{
     border-color:#000;
-    width:14px;
-    height:14px
+    width:40px;
+    height:40px
 }
 .carousel-indicators .active{
-    width:14px;
-    height:14px;
+    width:40px;
+    height:40px;
     margin:1px;
     background-color:#000
 }

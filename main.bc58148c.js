@@ -47,7 +47,7 @@
                     var n = function (t, e) {
                         this.type = null, this.options = null, this.enabled = null, this.timeout = null, this.hoverState = null, this.$element = null, this.inState = null, this.init("tooltip", t, e)
                     };
-                    n.VERSION = "3.3.7", n.TRANSITION_DURATION = 150, n.DEFAULTS = {
+                    n.VERSION = "3.3.7", n.TRANSITION_DURATION = 300, n.DEFAULTS = {
                         animation: !0,
                         placement: "top",
                         selector: !1,
